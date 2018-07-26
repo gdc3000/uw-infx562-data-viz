@@ -1,1 +1,1 @@
-# uw-infx562-data-viz
+# INFX 562 Data Viz Project

@@ -1,0 +1,38 @@
+body {
+    background-color: #ededed;
+    padding: 10px;
+    color: #444444;
+    font-family: 'Raleway', sans-serif;
+    font-size: 11pt;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+div.section{
+    /*border-bottom:1px #8a8a8a solid;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div.section > h5.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17pt;
+}
+
+svg.chart {
+    background-color: white;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 8px;
+    background-color: black;
+    z-index: 10;
+    color: #F0F0F0;
+    font-size: 8pt;
+    min-width:80px;
+    min-height:30px;
+    text-align: center;
+}
